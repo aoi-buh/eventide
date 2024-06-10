@@ -17,6 +17,7 @@ This layout focuses on:
 - usability of light magic
 - finger loading (and to a lesser extent fspeed)
 - low full bigram scissors
+
 in about the same order for impartance.
 
 This layout took inspirations from dusk mainly for thumb alpha, it's focus on low sfs and sfb and kumtum for it's approach in achieving that low sfs.
