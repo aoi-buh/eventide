@@ -33,6 +33,8 @@ x j k c g  f ' q / .
        s
 ```
 
+Has the problem of `fee` and `foo` but I'm too lazy to sort the index.
+
 ## Spells
 
 ```
