@@ -52,7 +52,7 @@ qi -> qui
 qe -> que
 qu -> quo
 
-defaults to repeat
+* -> repeat
 ```
 
 ## Alts
