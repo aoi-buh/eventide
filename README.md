@@ -22,6 +22,17 @@ in about the same order for impartance.
 
 This layout took inspirations from dusk mainly for thumb alpha, it's focus on low sfs and sfb and kumtum for it's approach in achieving that low sfs.
 
+## Rowstag
+
+`fz` swap for rowstag because I can't reach `f` otherwise.
+
+```
+b l d w v  z * o u ,
+n r t y p  m h a e i
+x j k c g  f ' q / .
+       s
+```
+
 ## Spells
 
 ```
