@@ -75,4 +75,7 @@ LI    LM
 
 g  y
 LI LM
+
+v  i  e  w
+LI RP RR LM
 ```
